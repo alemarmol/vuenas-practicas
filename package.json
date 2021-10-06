@@ -1,0 +1,19 @@
+{
+  "name": "vuenas-practicas",
+  "version": "0.1.0",
+  "description": "Scaffolding of a Vue project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alemarmol/vuenas-practicas.git"
+  },
+  "author": "Alejandro Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alemarmol/vuenas-practicas/issues"
+  },
+  "homepage": "https://github.com/alemarmol/vuenas-practicas#readme"
+}
